@@ -1,12 +1,12 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Desierto","order":1,"parentId":0,"scrollX":3604,"scrollY":1280},
-{"id":2,"expanded":false,"name":"Old man Hosuse","order":2,"parentId":1,"scrollX":1092,"scrollY":614.6666666666666},
+{"id":1,"expanded":true,"name":"Desierto","order":1,"parentId":0,"scrollX":3596,"scrollY":1280},
+{"id":2,"expanded":false,"name":"Old man Hosuse","order":2,"parentId":1,"scrollX":819,"scrollY":461},
 {"id":3,"expanded":false,"name":"BlackSmith (1)","order":3,"parentId":2,"scrollX":540.6666666666666,"scrollY":316.6666666666667},
-{"id":4,"expanded":false,"name":"Intro","order":4,"parentId":1,"scrollX":1092,"scrollY":614.6666666666666},
-{"id":5,"expanded":false,"name":"Recuerdo de zoe","order":5,"parentId":1,"scrollX":1092,"scrollY":614.6666666666666},
-{"id":6,"expanded":true,"name":"Desert Cave first section","order":6,"parentId":1,"scrollX":1081.3333333333333,"scrollY":1065.3333333333333},
-{"id":7,"expanded":true,"name":"Desert Cave second section","order":7,"parentId":6,"scrollX":1092,"scrollY":614.6666666666666},
-{"id":8,"expanded":false,"name":"Desert Cave third section","order":8,"parentId":7,"scrollX":1092,"scrollY":614.6666666666666},
-{"id":9,"expanded":false,"name":"City 1","order":9,"parentId":0,"scrollX":1081.3333333333333,"scrollY":1102.6666666666667}
+{"id":4,"expanded":false,"name":"Intro","order":4,"parentId":1,"scrollX":819,"scrollY":461},
+{"id":5,"expanded":false,"name":"Recuerdo de zoe","order":5,"parentId":1,"scrollX":819,"scrollY":461},
+{"id":6,"expanded":true,"name":"Desert Cave first section","order":6,"parentId":1,"scrollX":1082,"scrollY":1056},
+{"id":7,"expanded":true,"name":"Desert Cave second section","order":7,"parentId":6,"scrollX":811,"scrollY":640},
+{"id":8,"expanded":false,"name":"Desert Cave third section","order":8,"parentId":7,"scrollX":819,"scrollY":461},
+{"id":9,"expanded":false,"name":"City 1","order":9,"parentId":0,"scrollX":1082,"scrollY":1104}
 ]
